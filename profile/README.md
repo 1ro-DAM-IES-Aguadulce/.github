@@ -1,4 +1,4 @@
-# Bienvenidos a la organización de 1er año de DAM del IES Aguadulce ^^ 👋
+# Bienvenidos a la organización de 1er año de DAM del IES Aguadulce 👋
 
 ![image](https://github.com/1ro-DAM-IES-Aguadulce/.github/assets/126154508/3259d4d2-3176-4580-b98e-5e986ee4952a)
 
